@@ -1,4 +1,4 @@
 # NH-Test-Repo-3
 
 
-See link to [wiki](/wiki)
+See link to [wiki]
